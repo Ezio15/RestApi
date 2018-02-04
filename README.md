@@ -1,2 +1,2 @@
 # RestApi
-exploration of restApi.
+exploration of restApi
