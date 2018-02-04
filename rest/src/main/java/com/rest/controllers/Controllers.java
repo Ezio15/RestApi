@@ -9,6 +9,6 @@ public class Controllers {
 
 	@RequestMapping("/home")
 	 public String greet() {
-	  return "My first Rest Api";
+	  return "My first Rest";
 	 }
 }
